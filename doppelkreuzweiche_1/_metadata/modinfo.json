@@ -1,7 +1,7 @@
 {
-    "name": "Double Slip Switch / DKW Buttons",
+    "name": "Double Slip Switch Button / Doppelkreuzweiche Knof",
     "summary": "Yes/No buttons for double slip switches, like TF2 | Ja/Nein-Buttons für Doppelkreuzungsweichen",
-    "description": "Replaces the Yes/No dropdown in the double slip switch window of a track crossing with two directly clickable buttons, as in Transport Fever 2. One click toggles the crossing between a plain diamond crossing and a double slip switch. Pure UI mod, safe to add or remove at any time.\n\nDeutsch: Ersetzt das Ja/Nein-Dropdown im Fenster „Doppelkreuzungsweiche“ einer Gleiskreuzung durch zwei direkt klickbare Buttons, wie in Transport Fever 2. Ein Klick schaltet zwischen einfacher Kreuzung und Doppelkreuzungsweiche (DKW) um. Reine UI-Mod, kann jederzeit hinzugefügt oder entfernt werden.\n\nGitHub: https://github.com/Flo082002/doppelkreuzweiche_TF3",
+    "description": "Replaces the Yes/No dropdown in the double slip switch window of a track crossing with two directly clickable buttons, as in Transport Fever 2. One click toggles the crossing between a plain diamond crossing and a double slip switch. Pure UI mod, safe to add or remove at any time.\n\nGitHub: https://github.com/Flo082002/doppelkreuzweiche_TF3",
     "localization": {
         "en": {
             "name": "Double Slip Switch Quick Toggle",
