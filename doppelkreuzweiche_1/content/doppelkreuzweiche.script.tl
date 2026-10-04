@@ -9,7 +9,13 @@ local doppelkreuzweiche : any = {}
 local DoubleSlipSwitchButtons = react.RegisterRecipe("DoppelkreuzweicheButtons", function(param : IEntityWindowParam) : TreeNodeId
 	-- traffic light configuration: untouched original
 	if view_manager_util.baseNodeCanConfigTrafficLight(param.keyEntity) then
-		return react.CallOriginalRecipe(original, param)
+		-- a recipe must return a layout, not another recipe's node
+		return builtin.BoxLayout {
+			orientation = builtin.type.Orientation.Vertical,
+			children = {
+				react.CallOriginalRecipe(original, param),
+			},
+		}
 	end
 
 	local baseNodeConfig : Engine.Component.BaseNodeConfig = api.engine.getComponent(param.keyEntity, api.type.ComponentType.BASE_NODE_CONFIG)
