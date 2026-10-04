@@ -1,4 +1,4 @@
-# Double Slip Switch Doppelkreuzweiche Button
+# Double Slip Switch Doppelkreuzungsweiche Button
 
 A Transport Fever 3 mod that replaces the Yes/No dropdown of the double slip switch window with two buttons.
 
@@ -8,7 +8,7 @@ When you click a track crossing, the game opens the **"Double Slip Switch"** win
 
 ## Installation
 
-- **mod.io / in-game Mod Hub:** subscribe to "Double Slip Switch Doppelkreuzweiche Button" and enable it for your game.
+- **mod.io / in-game Mod Hub:** subscribe to "Double Slip Switch Doppelkreuzungsweiche Button" and enable it for your game.
 - **Manual:** copy the `doppelkreuzweiche_1` folder into your mods folder and restart the game:
   - Linux: `~/.local/share/Transport Fever 3/mods/`
   - Windows: the `mods` folder inside the Transport Fever 3 userdata directory
