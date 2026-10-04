@@ -12,6 +12,61 @@
             "name": "Doppelkreuzungsweiche: Ja/Nein",
             "summary": "Zwei Buttons Ja/Nein für Doppelkreuzungsweichen statt Dropdown, wie in TF2.",
             "description": "Ersetzt das Ja/Nein-Dropdown im Fenster „Doppelkreuzungsweiche“ einer Gleiskreuzung durch zwei direkt klickbare Buttons, wie in Transport Fever 2. Ein Klick schaltet zwischen einfacher Kreuzung und Doppelkreuzungsweiche (DKW) um. Reine UI-Mod, kann jederzeit hinzugefügt oder entfernt werden."
+        },
+        "es": {
+            "name": "Desvío doble: botones Sí/No",
+            "summary": "Dos botones Sí/No para los desvíos dobles en lugar del desplegable, como en TF2.",
+            "description": "Sustituye el desplegable Sí/No de la ventana «Interruptor deslizante doble» de un cruce de vías por dos botones en los que se puede hacer clic directamente, como en Transport Fever 2. Un clic cambia el cruce entre cruce simple y desvío doble. Mod solo de interfaz: se puede añadir o quitar en cualquier momento."
+        },
+        "fr": {
+            "name": "Aiguillage double : Oui/Non",
+            "summary": "Deux boutons Oui/Non pour les aiguillages doubles au lieu de la liste déroulante, comme dans TF2.",
+            "description": "Remplace la liste déroulante Oui/Non de la fenêtre « Aiguillage double » d'un croisement de voies par deux boutons directement cliquables, comme dans Transport Fever 2. Un clic bascule le croisement entre traversée simple et traversée-jonction double. Mod d'interface uniquement : peut être ajouté ou retiré à tout moment."
+        },
+        "it": {
+            "name": "Deviatoio inglese: Sì/No",
+            "summary": "Due pulsanti Sì/No per i deviatoi inglesi al posto del menu a tendina, come in TF2.",
+            "description": "Sostituisce il menu a tendina Sì/No nella finestra «Deviatoio inglese» di un incrocio di binari con due pulsanti cliccabili direttamente, come in Transport Fever 2. Un clic commuta l'incrocio tra intersezione semplice e deviatoio inglese doppio. Mod solo di interfaccia: può essere aggiunta o rimossa in qualsiasi momento."
+        },
+        "ja": {
+            "name": "ダブルスリップスイッチ：はい/いいえ",
+            "summary": "ダブルスリップスイッチの設定を、ドロップダウンではなく「はい/いいえ」の2つのボタンで。TF2と同じ操作です。",
+            "description": "線路の交差をクリックすると開く「ダブルスリップスイッチ」ウィンドウの「はい/いいえ」ドロップダウンを、直接クリックできる2つのボタンに置き換えます。Transport Fever 2と同じ操作感です。1クリックで通常の交差とダブルスリップスイッチを切り替えられます。UIのみのMODなので、いつでも追加・削除できます。"
+        },
+        "ko": {
+            "name": "더블 슬립 스위치: 예/아니요",
+            "summary": "더블 슬립 스위치 설정을 드롭다운 대신 예/아니요 버튼 두 개로. TF2와 같은 방식입니다.",
+            "description": "선로 교차점을 클릭하면 열리는 「더블 슬립 스위치」 창의 예/아니요 드롭다운을 바로 클릭할 수 있는 버튼 두 개로 바꿉니다. Transport Fever 2와 같은 방식입니다. 한 번의 클릭으로 일반 교차와 더블 슬립 스위치를 전환합니다. UI 전용 모드라 언제든지 추가하거나 제거할 수 있습니다."
+        },
+        "nl": {
+            "name": "Engelse wissel: Ja/Nee",
+            "summary": "Twee knoppen Ja/Nee voor Engelse wissels in plaats van de keuzelijst, zoals in TF2.",
+            "description": "Vervangt de keuzelijst Ja/Nee in het venster ‘Engelse wissel’ van een spoorkruising door twee direct aanklikbare knoppen, zoals in Transport Fever 2. Eén klik schakelt de kruising tussen gewone kruising en Engelse wissel. Alleen een UI-mod: kan op elk moment worden toegevoegd of verwijderd."
+        },
+        "pl": {
+            "name": "Rozjazd podwójny: Tak/Nie",
+            "summary": "Dwa przyciski Tak/Nie dla rozjazdów podwójnych zamiast listy rozwijanej, jak w TF2.",
+            "description": "Zastępuje listę rozwijaną Tak/Nie w oknie „Rozjazd podwójny” skrzyżowania torów dwoma przyciskami, które można kliknąć bezpośrednio, tak jak w Transport Fever 2. Jedno kliknięcie przełącza skrzyżowanie między zwykłym skrzyżowaniem torów a rozjazdem krzyżowym podwójnym. Mod wyłącznie interfejsu: można go dodać lub usunąć w dowolnej chwili."
+        },
+        "pt_BR": {
+            "name": "Desvio duplo: botões Sim/Não",
+            "summary": "Dois botões Sim/Não para desvios duplos em vez da lista suspensa, como no TF2.",
+            "description": "Substitui a lista suspensa Sim/Não na janela “Desvio Duplo” de um cruzamento de trilhos por dois botões clicáveis diretamente, como no Transport Fever 2. Um clique alterna o cruzamento entre cruzamento simples e desvio duplo. Mod apenas de interface: pode ser adicionado ou removido a qualquer momento."
+        },
+        "ru": {
+            "name": "Перекрёстная стрелка: Да/Нет",
+            "summary": "Две кнопки Да/Нет для двойных перекрёстных стрелок вместо выпадающего списка, как в TF2.",
+            "description": "Заменяет выпадающий список Да/Нет в окне «Двойные перекрестные стрелки» пересечения путей двумя кнопками, на которые можно нажать сразу, как в Transport Fever 2. Один щелчок переключает пересечение между простым пересечением и двойным перекрёстным стрелочным переводом. Мод только для интерфейса: его можно добавить или удалить в любой момент."
+        },
+        "zh_CN": {
+            "name": "双交叉转辙器：是/否按钮",
+            "summary": "用“是/否”两个按钮代替下拉菜单来设置双交叉转辙器，与TF2相同。",
+            "description": "将轨道交叉处“双交叉转辙器”窗口中的“是/否”下拉菜单替换为两个可直接点击的按钮，与《Transport Fever 2》中的操作相同。点击一次即可在普通交叉与双交叉转辙器之间切换。纯界面模组，可随时添加或移除。"
+        },
+        "zh_TW": {
+            "name": "複式轉轍器：是/否按鈕",
+            "summary": "用「是/否」兩個按鈕取代下拉選單來設定複式轉轍器，與TF2相同。",
+            "description": "將軌道交叉處「複式轉轍器」視窗中的「是/否」下拉選單改為兩個可直接點擊的按鈕，與《Transport Fever 2》的操作相同。點擊一次即可在一般交叉與複式轉轍器之間切換。純介面模組，可隨時加入或移除。"
         }
     },
     "authors": [
